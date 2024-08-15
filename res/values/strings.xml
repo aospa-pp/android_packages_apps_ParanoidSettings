@@ -7,6 +7,7 @@
 
     <string name="category_name_network_traffic">Network traffic</string>
     <string name="category_name_battery_styles">Battery styles</string>
+    <string name="category_name_qs_styles">QS styles</string>
 
     <!-- Status bar - Network Traffic -->
     <string name="network_traffic_settings_title">Network traffic monitor</string>
@@ -29,5 +30,16 @@
     <string name="status_bar_battery_percentage_default">Hidden</string>
     <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
     <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+
+    <!-- QS tile shape -->
+    <string name="qs_tile_shape">QS tile shape</string>
+    <string name="qs_tile_round">Round</string>
+    <string name="qs_tile_rect">Rounded Rectangle</string>
+    <string name="qs_tile_mix">Mix</string>
+
+    <!-- QS style -->
+    <string name="qs_style_title">QS Panel style</string>
+    <string name="qs_style_default">Android Stock</string>
+    <string name="qs_style_round">Android 11</string>
 
 </resources>

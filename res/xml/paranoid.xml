@@ -4,5 +4,31 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/paranoid_dashboard_title">
 
+    <PreferenceCategory
+        android:title="@string/category_name_network_traffic" >
+
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+            android:key="network_traffic_enabled"
+            android:title="@string/network_traffic_settings_title"
+            android:summary="@string/network_traffic_settings_summary"
+            android:defaultValue="false" />
+
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+            android:key="network_traffic_autohide"
+            android:title="@string/network_traffic_autohide"
+            android:summary="@string/network_traffic_autohide_summary"
+            android:defaultValue="false"
+            android:dependency="network_traffic_enabled" />
+
+        <co.aospa.framework.preference.SecureSettingListPreference
+            android:key="network_traffic_unit_type"
+            android:title="@string/network_traffic_units_title"
+            android:summary="%s"
+            android:entries="@array/network_traffic_units_entries"
+            android:entryValues="@array/network_traffic_units_values"
+            android:dependency="network_traffic_enabled"
+            android:defaultValue="0" />
+
+    </PreferenceCategory>
 
 </PreferenceScreen>

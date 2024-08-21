@@ -29,6 +29,7 @@
     <!-- Battery -->
     <string-array name="status_bar_battery_style_entries" translatable="false">
         <item>@string/status_bar_battery_style_icon_portrait</item>
+        <item>@string/status_bar_battery_style_icon_landscape_ios16</item>
         <item>@string/status_bar_battery_style_circle</item>
         <item>@string/status_bar_battery_style_dotted_circle</item>
         <item>@string/status_bar_battery_style_filled_circle</item>
@@ -38,6 +39,7 @@
 
     <string-array name="status_bar_battery_style_values" translatable="false">
         <item>0</item>
+        <item>18</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>

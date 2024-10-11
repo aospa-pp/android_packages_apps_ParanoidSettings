@@ -8,6 +8,7 @@
     <string name="category_name_network_traffic">Network traffic</string>
     <string name="category_name_battery_styles">Battery styles</string>
     <string name="category_name_qs_styles">QS styles</string>
+    <string name="category_name_lockscreen">Lockscreen</string>
 
     <!-- Status bar - Network Traffic -->
     <string name="network_traffic_settings_title">Network traffic monitor</string>
@@ -42,5 +43,9 @@
     <string name="qs_style_title">QS Panel style</string>
     <string name="qs_style_default">Android Stock</string>
     <string name="qs_style_round">Android 11</string>
+
+    <!-- Lock screen cover art -->
+    <string name="lockscreen_media_art_title">Media cover art</string>
+    <string name="lockscreen_media_art_summary">Show media cover art on lockscreen</string>
 
 </resources>

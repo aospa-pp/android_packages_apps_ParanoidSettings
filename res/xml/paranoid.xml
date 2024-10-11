@@ -72,4 +72,15 @@
 
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:title="@string/category_name_lockscreen">
+
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+            android:key="lockscreen_media_metadata"
+            android:title="@string/lockscreen_media_art_title"
+            android:summary="@string/lockscreen_media_art_summary"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
 </PreferenceScreen>

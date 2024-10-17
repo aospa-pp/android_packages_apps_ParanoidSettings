@@ -44,6 +44,10 @@
     <string name="qs_style_default">Android Stock</string>
     <string name="qs_style_round">Android 11</string>
 
+    <!-- QS transparency -->
+    <string name="qs_transparency_title">QS background transparency</string>
+    <string name="qs_transparency_summary">Set transparency level for QS background</string>
+
     <!-- Lock screen cover art -->
     <string name="lockscreen_media_art_title">Media cover art</string>
     <string name="lockscreen_media_art_summary">Show media cover art on lockscreen</string>

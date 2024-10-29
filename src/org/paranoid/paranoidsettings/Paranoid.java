@@ -17,6 +17,8 @@
 package org.paranoid.paranoidsettings;
 
 import android.os.Bundle;
+import android.os.SystemProperties;
+import androidx.preference.SwitchPreference;
 
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
@@ -33,6 +35,14 @@ public class Paranoid extends SettingsPreferenceFragment {
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
         addPreferencesFromResource(R.xml.paranoid);
+
+        SwitchPreference qti_boost_framework = findPreference("qti_boost_framework");
+        qti_boost_framework.setChecked(SystemProperties.getBoolean("persist.qti.boost_framework.enabled", true));
+        qti_boost_framework.setOnPreferenceChangeListener((preference, newValue) -> {
+            boolean isEnabled = (Boolean) newValue;
+            SystemProperties.set("persist.qti.boost_framework.enabled", isEnabled ? "true" : "false");
+            return true;
+        });
     }
 
     @Override

@@ -9,6 +9,7 @@
     <string name="category_name_battery_styles">Battery styles</string>
     <string name="category_name_qs_styles">QS styles</string>
     <string name="category_name_lockscreen">Lockscreen</string>
+    <string name="category_name_performance">Performance</string>
 
     <!-- Status bar - Network Traffic -->
     <string name="network_traffic_settings_title">Network traffic monitor</string>
@@ -51,5 +52,9 @@
     <!-- Lock screen cover art -->
     <string name="lockscreen_media_art_title">Media cover art</string>
     <string name="lockscreen_media_art_summary">Show media cover art on lockscreen</string>
+
+    <!-- QTI BoostFramework -->
+    <string name="qti_boost_framework_title">QTI boost framework</string>
+    <string name="qti_boost_framework_summary">Apply CPU/GPU boost on UI tasks to reduce jank. Reboot is needed</string>
 
 </resources>

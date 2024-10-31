@@ -91,6 +91,12 @@
             android:summary="@string/lockscreen_media_art_summary"
             android:defaultValue="false" />
 
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+            android:key="lockscreen_enable_power_menu"
+            android:title="@string/power_menu_lock_screen_secure_title"
+            android:summary="@string/power_menu_lock_screen_secure_summary"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
     <PreferenceCategory

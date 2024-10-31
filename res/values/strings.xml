@@ -57,4 +57,8 @@
     <string name="qti_boost_framework_title">QTI boost framework</string>
     <string name="qti_boost_framework_summary">Apply CPU/GPU boost on UI tasks to reduce jank. Reboot is needed</string>
 
+    <!-- Secure lock screen power menu -->
+    <string name="power_menu_lock_screen_secure_title">Power menu</string>
+    <string name="power_menu_lock_screen_secure_summary">Interact with power menu on secured lockscreen without authentication</string>
+
 </resources>

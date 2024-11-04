@@ -97,6 +97,12 @@
             android:summary="@string/power_menu_lock_screen_secure_summary"
             android:defaultValue="true" />
 
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+            android:key="lockscreen_enable_qs"
+            android:title="@string/qs_lock_screen_secure_title"
+            android:summary="@string/qs_lock_screen_secure_summary"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
     <PreferenceCategory

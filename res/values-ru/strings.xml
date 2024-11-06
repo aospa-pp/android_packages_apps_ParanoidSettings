@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="paranoid_dashboard_title">Расширенный концентратор</string>
+
+    <string name="category_name_network_traffic">Сетевой трафик</string>
+    <string name="category_name_battery_styles">Батарея стили</string>
+    <string name="category_name_qs_styles">QS Стили</string>
+    <string name="category_name_lockscreen">Блокировка экрана</string>
+    <string name="category_name_performance">Производительность</string>
+
+    
+    <string name="network_traffic_settings_title">Сетевой трафик монитор</string>
+    <string name="network_traffic_settings_summary">Показать текущие уровни сетевого трафика в строке состояния</string>
+    <string name="network_traffic_autohide">Автомальная шкура</string>
+    <string name="network_traffic_autohide_summary">Скрыть дорожный монитор, когда нет активности</string>
+    <string name="network_traffic_units_title">Единицы измерения трафика</string>
+    <string name="status_bar_battery_style_title">Стиль батареи</string>
+    <string name="status_bar_battery_style_icon_portrait">Икона портрет</string>
+    <string name="status_bar_battery_style_icon_landscape_ios16">Иконовый ландшафт (iOS 16)</string>
+    <string name="status_bar_battery_style_circle">Круг</string>
+    <string name="status_bar_battery_style_dotted_circle">Пунктирный круг</string>
+    <string name="status_bar_battery_style_filled_circle">Заполненный круг</string>
+    <string name="status_bar_battery_style_text">Текст</string>
+    <string name="status_bar_battery_style_hidden">Скрытый</string>
+    <string name="status_bar_battery_percentage_title">Процент аккумулятора</string>
+    <string name="status_bar_battery_percentage_default">Скрытый</string>
+    <string name="status_bar_battery_percentage_text_inside">Внутри значка</string>
+    <string name="status_bar_battery_percentage_text_next">Рядом со значком</string>
+
+    
+    <string name="qs_tile_shape">QS Плитка форма</string>
+    <string name="qs_tile_round">Круглый</string>
+    <string name="qs_tile_rect">Округлый прямоугольник</string>
+    <string name="qs_tile_mix">Смешивание</string>
+
+    
+    <string name="qs_style_title">QS панель стиль</string>
+    <string name="qs_style_default">Android Stock</string>
+    <string name="qs_style_round">Android 11</string>
+
+    
+    <string name="qs_transparency_title">QS Фоновая прозрачность</string>
+    <string name="qs_transparency_summary">Установите уровень прозрачности для фона QS</string>
+
+    
+    <string name="lockscreen_media_art_title">СМИ обложка</string>
+    <string name="lockscreen_media_art_summary">Show Media Cover Art на блокировке</string>
+
+    
+    <string name="qti_boost_framework_title">QTI Boost Framework</string>
+    <string name="qti_boost_framework_summary">Примените процессору/GPU повышение на задачи пользовательского интерфейса, чтобы уменьшить Jank.Перезагрузка необходима</string>
+
+
+    <string name="power_menu_lock_screen_secure_title">Силовое меню</string>
+    <string name="power_menu_lock_screen_secure_summary">Покажите меню Power на защищенном блокировке</string>
+
+
+    <string name="qs_lock_screen_secure_title">Быстрые настройки</string>
+    <string name="qs_lock_screen_secure_summary">Взаимодействуйте с быстрыми настройками на защищенном экране блокировки без аутентификации</string>
+
+</resources>

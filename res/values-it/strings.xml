@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="paranoid_dashboard_title">Hub esteso</string>
+
+    <string name="category_name_network_traffic">Traffico di rete</string>
+    <string name="category_name_battery_styles">Stili della batteria</string>
+    <string name="category_name_qs_styles">Stili QS</string>
+    <string name="category_name_lockscreen">SCRECCRO DI LUCK</string>
+    <string name="category_name_performance">Prestazione</string>
+
+    
+    <string name="network_traffic_settings_title">Monitor del traffico di rete</string>
+    <string name="network_traffic_settings_summary">Mostra gli attuali livelli di traffico di rete nella barra di stato</string>
+    <string name="network_traffic_autohide">Nascondersi auto</string>
+    <string name="network_traffic_autohide_summary">Nascondi il monitor del traffico quando non c\'è attività</string>
+    <string name="network_traffic_units_title">Unità di misurazione del traffico</string>
+    <string name="status_bar_battery_style_title">Stile batteria</string>
+    <string name="status_bar_battery_style_icon_portrait">Ritratto icona</string>
+    <string name="status_bar_battery_style_icon_landscape_ios16">Icona paesaggio (iOS 16)</string>
+    <string name="status_bar_battery_style_circle">Cerchio</string>
+    <string name="status_bar_battery_style_dotted_circle">Cerchio punteggiato</string>
+    <string name="status_bar_battery_style_filled_circle">Cerchio pieno</string>
+    <string name="status_bar_battery_style_text">Testo</string>
+    <string name="status_bar_battery_percentage_title">Percentuale della batteria</string>
+    <string name="status_bar_battery_percentage_text_inside">All\'interno dell\'icona</string>
+    <string name="status_bar_battery_percentage_text_next">Accanto all\'icona</string>
+
+    
+    <string name="qs_tile_shape">Forma di piastrelle QS</string>
+    <string name="qs_tile_round">Girare</string>
+    <string name="qs_tile_rect">Rettangolo arrotondato</string>
+    <string name="qs_tile_mix">Mescolare</string>
+
+    
+    <string name="qs_style_title">Stile del pannello QS</string>
+    <string name="qs_style_default">Stock Android</string>
+    <string name="qs_style_round">Android 11</string>
+
+    
+    <string name="qs_transparency_title">Trasparenza di sfondo QS</string>
+    <string name="qs_transparency_summary">Imposta il livello di trasparenza per lo sfondo QS</string>
+
+    
+    <string name="lockscreen_media_art_title">Copertina media</string>
+    <string name="lockscreen_media_art_summary">Mostra la copertina dei media su serre di blocco</string>
+
+    
+    <string name="qti_boost_framework_title">Framework QTI Boost</string>
+    <string name="qti_boost_framework_summary">Applicare Boost CPU/GPU sulle attività dell\'interfaccia utente per ridurre Jank.È necessario riavviare</string>
+
+
+    <string name="power_menu_lock_screen_secure_title">Menu di alimentazione</string>
+    <string name="power_menu_lock_screen_secure_summary">Interagisci con il menu di alimentazione sul serio di blocco protetto senza autenticazione</string>
+
+
+    <string name="qs_lock_screen_secure_title">Impostazioni rapide</string>
+    <string name="qs_lock_screen_secure_summary">Interagisci con impostazioni rapide su serio di blocco protetto senza autenticazione</string>
+
+</resources>

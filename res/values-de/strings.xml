@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="paranoid_dashboard_title">Erweiterter Hub</string>
+
+    <string name="category_name_network_traffic">Netzwerkverkehr</string>
+    <string name="category_name_battery_styles">Batteriestile</string>
+    <string name="category_name_qs_styles">QS -Stile</string>
+    <string name="category_name_lockscreen">Schlosserbildschirm</string>
+    <string name="category_name_performance">Leistung</string>
+
+    
+    <string name="network_traffic_settings_title">Netzwerkverkehrsmonitor</string>
+    <string name="network_traffic_settings_summary">Zeigen Sie die aktuellen Netzwerkverkehrsebenen in der Statusleiste an</string>
+    <string name="network_traffic_autohide">Automatisch ausblenden</string>
+    <string name="network_traffic_autohide_summary">Verstecken Sie den Verkehrsmonitor, wenn keine Aktivität vorliegt</string>
+    <string name="network_traffic_units_title">Verkehrsmesseinheiten</string>
+    <string name="status_bar_battery_style_title">Batteriestil</string>
+    <string name="status_bar_battery_style_icon_portrait">Icon -Porträt</string>
+    <string name="status_bar_battery_style_icon_landscape_ios16">Ikonenlandschaft (iOS 16)</string>
+    <string name="status_bar_battery_style_circle">Kreis</string>
+    <string name="status_bar_battery_style_dotted_circle">Gepunkteter Kreis</string>
+    <string name="status_bar_battery_style_filled_circle">Gefüllter Kreis</string>
+    <string name="status_bar_battery_style_text">Text</string>
+    <string name="status_bar_battery_style_hidden">Versteckt</string>
+    <string name="status_bar_battery_percentage_title">Batterieprozentsatz</string>
+    <string name="status_bar_battery_percentage_default">Versteckt</string>
+    <string name="status_bar_battery_percentage_text_inside">In der Ikone</string>
+    <string name="status_bar_battery_percentage_text_next">Neben der Ikone</string>
+
+    
+    <string name="qs_tile_shape">Qs Fliesenform</string>
+    <string name="qs_tile_round">Runden</string>
+    <string name="qs_tile_rect">Abgerundetes Rechteck</string>
+    <string name="qs_tile_mix">Mischen</string>
+
+    
+    <string name="qs_style_title">QS -Panelstil</string>
+    <string name="qs_style_default">Android -Aktien</string>
+    <string name="qs_style_round">Android 11</string>
+
+    
+    <string name="qs_transparency_title">QS Hintergrund Transparenz</string>
+    <string name="qs_transparency_summary">Legen Sie die Transparenzebene für den QS -Hintergrund fest</string>
+
+    
+    <string name="lockscreen_media_art_title">Medien Cover Art</string>
+    <string name="lockscreen_media_art_summary">Messen Sie die Medien, die Kunst auf dem Schlossescreen abdecken</string>
+
+    
+    <string name="qti_boost_framework_title">Qti Boost Framework</string>
+    <string name="qti_boost_framework_summary">Wenden Sie CPU/GPU -Boost auf UI -Aufgaben an, um die Jank zu reduzieren.Neustart wird benötigt</string>
+
+
+    <string name="power_menu_lock_screen_secure_title">Strommenü</string>
+    <string name="power_menu_lock_screen_secure_summary">Interagieren Sie mit dem Power -Menü auf dem gesicherten Schlosser ohne Authentifizierung</string>
+
+
+    <string name="qs_lock_screen_secure_title">Schnelle Einstellungen</string>
+    <string name="qs_lock_screen_secure_summary">Interagieren Sie mit schnellen Einstellungen auf gesicherten Schlosserbildschirm ohne Authentifizierung</string>
+
+</resources>

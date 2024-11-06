@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="paranoid_dashboard_title">擴展集線器</string>
+
+    <string name="category_name_network_traffic">網絡流量</string>
+    <string name="category_name_battery_styles">電池樣式</string>
+    <string name="category_name_qs_styles">QS樣式</string>
+    <string name="category_name_lockscreen">鎖屏</string>
+    <string name="category_name_performance">表現</string>
+
+    
+    <string name="network_traffic_settings_title">網絡流量監視器</string>
+    <string name="network_traffic_settings_summary">在狀態欄中顯示當前的網絡流量級別</string>
+    <string name="network_traffic_autohide">自動隱藏</string>
+    <string name="network_traffic_autohide_summary">沒有活動時隱藏交通監視器</string>
+    <string name="network_traffic_units_title">交通測量單元</string>
+    <string name="status_bar_battery_style_title">電池風格</string>
+    <string name="status_bar_battery_style_icon_portrait">圖標肖像</string>
+    <string name="status_bar_battery_style_icon_landscape_ios16">圖標景觀（iOS 16）</string>
+    <string name="status_bar_battery_style_circle">圓圈</string>
+    <string name="status_bar_battery_style_dotted_circle">虛線圓圈</string>
+    <string name="status_bar_battery_style_filled_circle">填充圓圈</string>
+    <string name="status_bar_battery_style_text">文字</string>
+    <string name="status_bar_battery_style_hidden">隱</string>
+    <string name="status_bar_battery_percentage_title">電池百分比</string>
+    <string name="status_bar_battery_percentage_default">隱</string>
+    <string name="status_bar_battery_percentage_text_inside">在圖標內</string>
+    <string name="status_bar_battery_percentage_text_next">圖標旁邊</string>
+
+    
+    <string name="qs_tile_shape">QS瓷磚形狀</string>
+    <string name="qs_tile_round">圓形的</string>
+    <string name="qs_tile_rect">圓形矩形</string>
+    <string name="qs_tile_mix">混合</string>
+
+    
+    <string name="qs_style_title">QS面板樣式</string>
+    <string name="qs_style_default">Android Stock</string>
+    <string name="qs_style_round">Android 11</string>
+
+    
+    <string name="qs_transparency_title">QS背景透明度</string>
+    <string name="qs_transparency_summary">設置QS背景的透明度級別</string>
+
+    
+    <string name="lockscreen_media_art_title">媒體封面藝術</string>
+    <string name="lockscreen_media_art_summary">展示媒體封面藝術在鎖屏上</string>
+
+    
+    <string name="qti_boost_framework_title">QTI增強框架</string>
+    <string name="qti_boost_framework_summary">在UI任務上應用CPU/GPU提升以減少Jank。需要重新啟動</string>
+
+
+    <string name="power_menu_lock_screen_secure_title">電源菜單</string>
+    <string name="power_menu_lock_screen_secure_summary">在沒有身份驗證的安全鎖屏上與電源菜單進行互動</string>
+
+
+    <string name="qs_lock_screen_secure_title">快速設置</string>
+    <string name="qs_lock_screen_secure_summary">在沒有身份驗證的情況下與安全鎖屏上的快速設置進行交互</string>
+
+</resources>

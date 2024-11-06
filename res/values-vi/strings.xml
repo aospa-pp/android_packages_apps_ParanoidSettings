@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="paranoid_dashboard_title">Trung tâm mở rộng</string>
+
+    <string name="category_name_network_traffic">Lưu lượng truy cập mạng</string>
+    <string name="category_name_battery_styles">Kiểu pin</string>
+    <string name="category_name_qs_styles">Phong cách QS</string>
+    <string name="category_name_lockscreen">Màn hình khóa</string>
+    <string name="category_name_performance">Hiệu suất</string>
+
+    
+    <string name="network_traffic_settings_title">Giám sát lưu lượng mạng</string>
+    <string name="network_traffic_settings_summary">Hiển thị các mức lưu lượng mạng hiện tại trong thanh trạng thái</string>
+    <string name="network_traffic_autohide">Tự động ẩn</string>
+    <string name="network_traffic_autohide_summary">Ẩn màn hình giao thông khi không có hoạt động</string>
+    <string name="network_traffic_units_title">Đơn vị đo lưu lượng</string>
+    <string name="status_bar_battery_style_title">Kiểu pin</string>
+    <string name="status_bar_battery_style_icon_portrait">Biểu tượng chân dung</string>
+    <string name="status_bar_battery_style_icon_landscape_ios16">Phong cảnh biểu tượng (iOS 16)</string>
+    <string name="status_bar_battery_style_circle">Vòng tròn</string>
+    <string name="status_bar_battery_style_dotted_circle">Vòng tròn chấm</string>
+    <string name="status_bar_battery_style_filled_circle">Vòng tròn đầy</string>
+    <string name="status_bar_battery_style_text">Chữ</string>
+    <string name="status_bar_battery_style_hidden">Ẩn giấu</string>
+    <string name="status_bar_battery_percentage_title">Tỷ lệ pin</string>
+    <string name="status_bar_battery_percentage_default">Ẩn giấu</string>
+    <string name="status_bar_battery_percentage_text_inside">Bên trong biểu tượng</string>
+    <string name="status_bar_battery_percentage_text_next">Bên cạnh biểu tượng</string>
+
+    
+    <string name="qs_tile_shape">Hình dạng gạch QS</string>
+    <string name="qs_tile_round">Tròn</string>
+    <string name="qs_tile_rect">Hình chữ nhật tròn</string>
+    <string name="qs_tile_mix">Trộn</string>
+
+    
+    <string name="qs_style_title">Phong cách bảng QS</string>
+    <string name="qs_style_default">Android mặc định</string>
+    <string name="qs_style_round">Android 11</string>
+
+    
+    <string name="qs_transparency_title">QS trong suốt</string>
+    <string name="qs_transparency_summary">Đặt mức độ trong suốt cho nền QS</string>
+
+    
+    <string name="lockscreen_media_art_title">Truyền thông bao gồm nghệ thuật</string>
+    <string name="lockscreen_media_art_summary">Hiển thị nghệ thuật truyền thông trên màn hình khóa</string>
+
+    
+    <string name="qti_boost_framework_title">Khung tăng cường QTI</string>
+    <string name="qti_boost_framework_summary">Áp dụng tăng CPU/GPU trên các tác vụ UI để giảm jank.Khởi động lại là cần thiết</string>
+
+
+    <string name="power_menu_lock_screen_secure_title">Menu nguồn</string>
+    <string name="power_menu_lock_screen_secure_summary">Tương tác với menu nguồn trên màn hình khóa được bảo mật mà không cần xác thực</string>
+
+
+    <string name="qs_lock_screen_secure_title">Cài đặt nhanh</string>
+    <string name="qs_lock_screen_secure_summary">Tương tác với các cài đặt nhanh trên màn hình khóa được bảo mật mà không cần xác thực</string>
+
+</resources>
